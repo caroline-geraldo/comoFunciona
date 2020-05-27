@@ -1,0 +1,7 @@
+.expasion__details { 
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  border-top: 0;
+  border-radius: 0px 0px 5px 5px;
+}
