@@ -14,7 +14,7 @@ h1{
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif;
   background: #E5E5E5;
 }
 
@@ -59,7 +59,7 @@ body{
   margin-bottom: 10px;
   position: relative
   ;
-  background-color: #fff;
+  background-color:  #EBEAEA;;
   padding: 40px 40px 40px;
   text-align: center;
   overflow: hidden;
@@ -92,8 +92,20 @@ body{
 .section__comoFunciona_content{
   display: flex;
   flex-direction: row;
-}
-.section__comoFunciona_content div{
- /*width: 300px;*/
+  
 }
 
+
+.box .box1{
+
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: ;
+
+}

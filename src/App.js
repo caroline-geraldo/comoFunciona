@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
     <>
@@ -16,27 +17,36 @@ function App() {
       <section class="container">
 	
   <div class="box">
-      
-      <h1>Tem um projeto?</h1>
+      <div className="box1">
+      <h1>Tem uma ideia, serviço ou produto?</h1>
+      </div>
+  </div>
+
+  <div class="box">
+  <div className="box2">
+      <h1>Tenha uma reunião online com nossa equipe</h1>
+      </div>
      
   </div>
 
   <div class="box">
-     
+  <div className="box1">
+      <h1>Objetivo alcançado ! Aproveite seu site!</h1>
+      </div>
   </div>
 
   <div class="box">
+  <div className="box2">
+      <h1>Escolha o melhor plano para o seu negócio!</h1>
+      </div>
+      
       
   </div>
 
   <div class="box">
-      <h1>Defina</h1>
-      
-      
-  </div>
-
-  <div class="box">
-      <h1>Defina</h1>
+  <div className="box2">
+      <h1>Receba entregas do seu site durante a criação</h1>
+      </div>
      
   </div>
 
@@ -50,6 +60,10 @@ function App() {
 
       </section>
     
+
+    </div>
+
+    <div className="vector">
 
     </div>
     
