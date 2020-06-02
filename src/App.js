@@ -5,7 +5,7 @@ import './App.css';
 
 
 import CreativeThinkingUrl from './assets/img/cardescolha.svg'
-import EscolharOMelhorUrl from './assets/img/cardmeeting.svg'
+import EscolharOMelhorUrl from './assets/img/Meeting.svg'
 import RecebaEntregasUrl from './assets/img/cardwebsite.svg'
 import ObjetivoAlcancado from './assets/img/cardfoguete2.svg'
 
